@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end**
 
-- 📝 I regularly write articles on [https://hashnode.com/@codegram](https://hashnode.com/@codegram)
+- 📝 Checkout my articles on [https://hashnode.com/@codegram](https://hashnode.com/@codegram)
 
 - 📫 How to reach me **sharaff0shubham@gmail.com**
 
