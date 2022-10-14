@@ -5,7 +5,7 @@
   alt=""
 />
 
-- 🌱 I’m currently learning **Front-end**
+- 🌱 I’m currently learning **Full-Stack Web Development in Javascript**
 
 - 📝 Checkout my articles on [https://hashnode.com/@codegram](https://hashnode.com/@codegram)
 
